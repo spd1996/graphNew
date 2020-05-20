@@ -26,7 +26,6 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
         main.cpp \
         mynew.cpp \
-    main.cpp \
     qcustomplot.cpp
 
 HEADERS += \
